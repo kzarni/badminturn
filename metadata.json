@@ -1,0 +1,6 @@
+{
+  "name": "Badminton Court King",
+  "description": "A web application to manage badminton court rotations, player queues, and track stats for social games. It helps organize players by creating fair matchups and tracking winners.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
